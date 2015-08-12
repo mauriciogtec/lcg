@@ -1,0 +1,2 @@
+# lcg
+Generador Congruencial Lineal
